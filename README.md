@@ -1,5 +1,5 @@
 <h2> Hi there, I am Yevheny!</h2>
-<img align='right' src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="230" eight="230">
+<img align='right' src="https://avatars.githubusercontent.com/u/43493031?v=4" width="230" height="230">
 <p><em> [frontend] & {backend} developer</em></p>
 
 
