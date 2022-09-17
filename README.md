@@ -1,6 +1,6 @@
 <h2> Hi there, I am Yevheny!</h2>
 <img align='right' src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="230" eight="230">
-<p><em> <frontend> & {backend} developer</em></p>
+<p><em> [frontend] & {backend} developer</em></p>
 
 
 ### <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50"> A little more about me...  
