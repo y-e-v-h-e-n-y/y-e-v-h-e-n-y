@@ -9,9 +9,9 @@
 const profile = {
  fullName: "Yevhen",
  programmingSkills: {
-    clientSoftware: ["HTML5","CSS3","JavaScript"];
-    serverSoftware: ["Node.js","LAMP","nginx","docker"];
-    programmingLang:["Javascript","Python","PHP"];
+    clientSoftware: ["HTML5","CSS3","JavaScript"],
+    serverSoftware: ["Node.js","LAMP","nginx","docker"],
+    programmingLang:["Javascript","Python","PHP"]
         },
   languages: ["Ukrainan", "English"],
   currentFocus: "Creating 'the next big thing' "
