@@ -19,5 +19,5 @@ const profile = {
 ```
 
 📫 Contact me on: 
-    - [Twitter](https://twitter.com/y_e_v_h_e_n_y)
-    - [Telegram](https://t.me/y_e_v_h_e_n_y)
+    - [Twitter](https://twitter.com/yevh3ny)
+    - [Telegram](https://t.me/yevh3ny)
