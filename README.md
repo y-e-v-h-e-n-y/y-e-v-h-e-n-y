@@ -9,10 +9,11 @@
 const profile = {
  fullName: "Yevhen",
  programmingSkills: {
-    clientSoftware: ["HTML5","CSS3","JavaScript"],
-    serverSoftware: ["Node.js","LAMP","nginx","docker"],
+    frontEnd: ["HTML5","CSS3","JavaScript","React", "TailwindCSS"],
+    backEnd: ["LEMP","Node.js", "Laravel", "WordPress"],
     programmingLang:["Javascript","Python","PHP"]
         },
+  devOpsSkills: ["AWS", "GCP", "Docker", "Jenkins", "Ansible", "Terraform"]
   languages: ["Ukrainan", "English"],
   currentFocus: "Creating 'the next big thing' "
 }
