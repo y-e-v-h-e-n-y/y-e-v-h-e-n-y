@@ -15,7 +15,7 @@ const profile = {
       js: ["javascript", "React", "Redux", "Vite", "Next.js"]
     },
     backEnd: {
-      dataBase: ["MySQL","PostgreSQL", "MongoDB", "SQLIte"]
+      dataBase: ["MySQL","PostgreSQL", "MongoDB", "SQLIte"],
       webServer: ["Linux", "Apache", "Nginx", "Node.js", "Express"],
       framework: ["Laravel", "WordPress"]    
     },
