@@ -19,9 +19,10 @@ const profile = {
       webServer: ["Linux", "Apache", "Nginx", "Node.js", "Express"],
       framework: ["Laravel", "WordPress"]    
     },
-  devOps: ["AWS", "GCP", "Docker", "Jenkins", "Ansible", "Terraform"]
+  devOps: ["AWS", "GCP", "Docker", "Jenkins", "Ansible", "Terraform"],
+  botDevelopment: ["Telebot", "Aiogram", "Telegraf", "Yowsup", "Venom"],
   languages: ["Ukrainan", "English"],
-  currentFocus: "Creating 'the next big thing' "
+  currentFocus: "Web development "
 }
 ```
 
